@@ -7,7 +7,7 @@ I'm an MBA graduate specializing in Finance and Business Analytics and an aspiri
 
 👨‍💻 My Skillset:
 
-🔹 Data Analysis: SQL, Python 
+🔹 Data Analysis: SQL, Python
 🔹 Data Visualization: Power BI, Tableau, Seaborn  
 🔹 Business Analytics: Market Research, Customer Churn Analysis, Financial Data Analysis  
 🔹 Data Science: Pandas, NumPy, Scikit-learn  
