@@ -21,7 +21,7 @@ I'm currently enhancing my skills in advanced analytics, machine learning, and b
 
 ✔ Telecom Customer Churn Analysis – Analyzed customer retention patterns, segmenting high-risk customers to optimize retention strategies.  
 ✔ Amazon Prime Dataset Analysis – Built Power BI dashboards to explore content trends, audience preferences, and streaming insights.
-✔ Restaurant Order Analysis – Leveraged SQL to identify customer ordering behavior and optimize menu pricing strategies.  
+✔ Restaurant Order Analysis – Leveraged SQL to identify customer ordering behavior and optimize menu pricing strategies.
 ✔ Superstore Sales Analysis – Performed exploratory data analysis (EDA) using Python (Pandas, NumPy, Seaborn) to uncover sales trends, regional performance, and customer purchasing patterns for better business decision-making.  
 
 📈 Certifications:  
