@@ -13,7 +13,7 @@ I'm an MBA graduate specializing in Finance and Business Analytics and an aspiri
 
 🔹Business Analytics: Market Research, Customer Churn Analysis, Financial Data Analysis  
 
-🔹Data Science: Pandas, NumPy, Scikit-learn  
+🔹Data Science: Pandas, NumPy
 
 🔹Strategic Decision-Making: Superstore Sales Analysis  
 
